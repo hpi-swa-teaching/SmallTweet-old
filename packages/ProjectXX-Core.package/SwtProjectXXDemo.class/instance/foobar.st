@@ -1,3 +1,3 @@
 accessing
 foobar
-	 ^ 1256
+	 ^ foobarValue

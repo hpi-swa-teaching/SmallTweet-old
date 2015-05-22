@@ -12,7 +12,8 @@
 	"instance" : {
 		"barfoo" : "mk 5/22/2015 09:41",
 		"barfoo:" : "mk 5/22/2015 09:41",
-		"foobar" : "xyz 4/23/2014 04:55",
+		"foobar" : "mk 5/22/2015 12:15",
+		"foobar:" : "mk 5/22/2015 12:15",
 		"initializeOAuth" : "to 5/22/2015 09:55",
 		"intialize" : "to 5/18/2015 12:35",
 		"oauthParams" : "to 5/18/2015 12:23",
